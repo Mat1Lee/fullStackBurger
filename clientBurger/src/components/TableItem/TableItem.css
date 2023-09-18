@@ -1,0 +1,12 @@
+.dec{
+  background-color: rgba(220, 20, 60, 0.719);
+  
+}
+.inc{
+  background-color: rgba(0, 0, 255, 0.521);
+}
+.tableData__Item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

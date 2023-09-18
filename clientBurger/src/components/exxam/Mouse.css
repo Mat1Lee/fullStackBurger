@@ -1,0 +1,25 @@
+.container {
+  background-color: red;
+  width: 200px;
+  height: 100vh;
+  display: flex;
+  position: relative;
+}
+
+.resize {
+  background-color: green;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  height: 100%;
+  width: 15px;
+  cursor: 'move';
+}
+.circle{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border: none;
+  border-radius: 50%;
+  background-color: black;
+}

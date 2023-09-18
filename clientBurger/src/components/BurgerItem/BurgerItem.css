@@ -1,0 +1,36 @@
+.view__item{
+  width: 350px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+margin: auto;
+  /* display: none; */
+}
+.view__outline__backgrond{
+  width: 370px;
+  height: 50px;
+  border: none;
+  border-radius: 60px 60px 0px 0px;
+  background-color: burlywood;
+  margin: auto;
+}
+.view__outline__backgrond1{
+  width: 370px;
+  height: 50px;
+  border: none;
+  border-radius: 0px 0px 60px 60px;
+  margin: auto;
+  background-color: burlywood;
+}
+.view__item{
+  background-color: rgba(0, 0, 255, 0.443);
+}
+/* .view__item:nth-child(3){
+  background-color: rgba(255, 123, 0, 0.655);
+}
+.view__item:nth-child(4){
+  background-color: rgba(255, 0, 30, 0.545);
+}
+.view__item:nth-child(5){
+  background-color: rgba(0, 255, 106, 0.627);
+} */

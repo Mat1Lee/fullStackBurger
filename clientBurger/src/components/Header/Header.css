@@ -1,0 +1,12 @@
+.header{
+  display: flex;
+  justify-content: space-around;
+  height: 40px;
+  position: relative;
+  padding: 20px;
+  background-color: rgba(200, 200, 226, 0.706);
+  
+}
+.header Button{
+  margin: 0 20px;
+}

@@ -1,0 +1,22 @@
+.checkoutPay{
+  display: flex;
+  justify-content: space-around;
+  /* border: 1px solid black; */
+ 
+  /* background-color: rgba(216, 207, 197, 0.548); */
+}
+.checkout__currentcart{
+  width: 400px;
+  /* height: 500px; */
+  border:none;
+  border-radius: 10px;
+  background-color: #5e92e0e0;
+  text-align: center;
+  margin: 20px; font-size: 13px;
+  padding: 10px;
+}
+.currentcart__item{
+  display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
